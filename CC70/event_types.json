@@ -1,0 +1,40 @@
+{
+  "updated_at": "2018-09-09T01:04+0000",
+  "event_types": [
+    {
+      "id": 30001,
+      "updated_at": "2018-09-25T21:53+0000",
+      "name": "Talk",
+      "color": "#fc853f",
+      "conference": "CC70"
+    },
+    {
+      "id": 30002,
+      "updated_at": "2018-09-25T18:18+0000",
+      "name": "Workshop",
+      "color": "#5c74ff",
+      "conference": "CC70"
+    },
+    {
+      "id": 30003,
+      "updated_at": "2018-09-25T21:56+0000",
+      "name": "Other",
+      "color": "#AD1457",
+      "conference": "CC70"
+    },
+    {
+      "id": 30004,
+      "updated_at": "2018-09-25T00:59+0000",
+      "name": "Contest",
+      "color": "#42d2bc",
+      "conference": "CC70"
+    },
+    {
+      "id": 30005,
+      "updated_at": "2018-09-25T01:04+0000",
+      "name": "Village",
+      "color": "#5c74ff",
+      "conference": "CC70"
+    }
+  ]
+}

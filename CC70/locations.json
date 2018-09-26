@@ -1,0 +1,47 @@
+{
+  "updated_at": "2018-09-09T01:05+0000",
+  "locations": [
+    {
+      "id": 30001,
+      "updated_at": "2018-09-25T18:18+0000",
+      "name": "Track 1",
+      "conference": "CC70"
+    },
+    {
+      "id": 30002,
+      "updated_at": "2018-09-25T18:18+0000",
+      "name": "Track 2",
+      "conference": "CC70"
+    },
+    {
+      "id": 30003,
+      "updated_at": "2018-09-25T18:18+0000",
+      "name": "Theater",
+      "conference": "CC70"
+    },
+    {
+      "id": 30004,
+      "updated_at": "2018-09-25T18:18+0000",
+      "name": "Apache",
+      "conference": "CC70"
+    },
+    {
+      "id": 30005,
+      "updated_at": "2018-09-25T01:05+0000",
+      "name": "Palo Verde 1-2",
+      "conference": "CC70"
+    }
+     {
+      "id": 30006,
+      "updated_at": "2018-09-25T01:05+0000",
+      "name": "Palo Verde 3",
+      "conference": "CC70"
+    }
+     {
+      "id": 30007,
+      "updated_at": "2018-09-25T01:05+0000",
+      "name": "Superstition Ballroom",
+      "conference": "CC70"
+    }
+  ]
+}
