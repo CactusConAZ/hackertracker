@@ -73,9 +73,9 @@
     },
     {
       "id": 30017,
-      "name": "Mike Felch @ustayready",
+      "name": "Mike Felch",
       "title": "",
-      "twitter": "",
+      "twitter": "@ustayready",
       "updated_at": "2018-09-25T18:18+0000",
       "description": "Mike is currently a red teamer / pentester for Black Hills Information Security. He began his career in 1997 as a Linux Administrator which eventually led to numerous offensive security roles, software development and hardware/software security research. Mike is also a lead forensics instructor for TeelTech, an Officer for OWASP Orlando (Chief Breaker) and an organizer for BSides Orlando.",
       "conference": "CC07",
@@ -368,6 +368,16 @@
       "twitter": "",
       "updated_at": "2018-09-25T18:18+0000",
       "description": "@XlogicX hacks at anything low level. He's unmasked sanitized IP addresses in packets (because checksums) and crafts his own pcaps with just xxd. He feeds complete garbage to forensic tools, AV products, decompression software, and intrusion detection systems. He made evil strings more evil (with automation) to exploit high consumption regular expressions. Lately he has been declaring war on assembly language (calling it too high-level) and doing all kinds of ignorant things with machine code. More information can be found on xlogicx.net.",
+      "conference": "CC07",
+      "link": ""
+    }
+    {
+      "id": 30046,
+      "name": "Joe Ward",
+      "title": "",
+      "twitter": "",
+      "updated_at": "2018-09-25T18:18+0000",
+      "description": "Joe Ward is a Senior Security Analyst at Bishop Fox, a security consulting firm providing services to the Fortune 500, global financial institutions, and high-tech startups. In this role, he focuses on network penetration testing, security architecture, and vulnerability management. He is also an expert in Active Directory.\r\n\r\nAt Bishop Fox, Joe led the team that created the application security program for a Fortune 100 global organization. He has authored a blog post on threat modeling for Bishop Fox as well as conducted internal trainings on the subject. Several military departments have enlisted Joe’s guidance in red team and blue team training. Joe is an active member of Arizona Infragard, a government alliance that is dedicated to mitigating physical and cyber threats via information sharing.\r\n\r\nPrior to joining Bishop Fox, Joe spent 20 years in IT as a network and security engineer. Joe built datacenter implementations around the world in his past career. He has worked for various prominent enterprises such as the largest state agency in Arizona.",
       "conference": "CC07",
       "link": ""
     }
