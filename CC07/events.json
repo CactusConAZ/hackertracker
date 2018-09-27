@@ -313,12 +313,12 @@
       "speakers": [
         30013
       ],
-      "start_date": "2018-09-28T14:00+0000",
+      "start_date": "2018-09-29T14:00+0000",
       "updated_at": "2018-09-28T18:18+0000",
       "id": 30129,
       "location": 30001,
       "title": "Implementing a Kick-Butt Training Program: BLUE TEAM GO!",
-      "end_date": "2018-09-28T14:50+0000",
+      "end_date": "2018-09-29T14:50+0000",
       "event_type": 30101,
       "description": "Hands-on incident response roles such as those found within a SOC or CIRT are difficult to staff.  The skill sets required for these roles are vast.  Even when these roles are filled, analysts often find themselves faced with tasks with which they are not familiar.  Certification and higher education programs provide a decent foundation, but they do not produce strong responders.  Even for those environments full of strong responders, analyst skills are often weakened by the onslaught of repetitive tasks, such as fielding phishing ticket, after phishing ticket, after phishing ticket... you get the point.\r\n\r\nAsk yourself: Do all analysts on your team have a firm understanding of your company, the SIEM, advanced networking concepts, network forensics, host-based forensics, malware analysis, threat hunting, and working with intel?  Most likely not.  In this talk, I’ll provide a framework for an on-boarding/baseline training program.  The framework is flexible, allowing for multi-phase deployments or an all-at-once bootcamp style training depending on your needs.\r\n\r\nThe program utilizes experiential training in an effort to teach your analysts the HOWs and WHYs behind their processes and tools.  We don’t need analysts who can push a button to get a banana -- We needs analysts who truly understand the inner-workings of their tools.  For example, what’s the difference between pslist and psscan in volatility?  Which one relies upon pool tags?  What is a pool tag and why do they matter?  Adversaries and red teams rely on weaponization… why not weaponize your blue team with the tools they need too?",
       "link": "",
